@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="enviar">Enviar</string>
+    <string name="texto_numero">Nenhum número</string>
+    <string name="appnome">Cafe Source</string>
+    <string name="listas">Ir para Lista</string>
+    <string name="modo_apagar">Modo Apagar</string>
+    <string name="logoname">logo</string>
+</resources>
